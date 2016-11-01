@@ -22,12 +22,10 @@ namespace LeetCodeSolutions
 
 			//int a, b, c, prevSum, prevDiff;
 
-
 			//while (true)
 			//{
 
 			//}
-
 
 			return 0;
 		}
@@ -85,5 +83,5 @@ namespace LeetCodeSolutions
 			var query = arr.Select((v, i) => new { diff = Math.Abs(target - v), i}).OrderBy(a => a.diff).First();
 			return arr[query.i];
 		}
-}
+	}
 }

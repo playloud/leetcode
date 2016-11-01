@@ -20,8 +20,11 @@ namespace LeetCodeSolutions
 			//ThreeSum ts = new ThreeSum();
 			//ts.Test();
 
+			//ThreeSumCloeset_Solution tss = new ThreeSumCloeset_Solution();
 
-			ThreeSumCloeset_Solution tss = new ThreeSumCloeset_Solution();
+			LetterCombinations_17 lc = new LetterCombinations_17();
+			lc.Test();
+
 		}
 	}
 }
