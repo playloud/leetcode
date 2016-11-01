@@ -42,6 +42,7 @@
     <Compile Include="ThreeSum.cs" />
     <Compile Include="ThreeSumCloeset_Solution.cs" />
     <Compile Include="LetterCombinations_17.cs" />
+    <Compile Include="RemoveNthNodeFromEndOfList_19.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
