@@ -22,8 +22,10 @@ namespace LeetCodeSolutions
 
 			//ThreeSumCloeset_Solution tss = new ThreeSumCloeset_Solution();
 
-			LetterCombinations_17 lc = new LetterCombinations_17();
-			lc.Test();
+			//LetterCombinations_17 lc = new LetterCombinations_17();
+			//lc.Test();
+
+			LongestSubstringWithoutRepeatingCharacters_3 no3 = new LongestSubstringWithoutRepeatingCharacters_3();
 
 		}
 	}
