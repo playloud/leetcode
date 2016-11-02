@@ -14,9 +14,7 @@ namespace LeetCodeSolutions
 		{
 			public ListNode RemoveNthFromEnd(ListNode head, int n)
 			{
-
-
-
+				
 				return null;
 			}
 		}
