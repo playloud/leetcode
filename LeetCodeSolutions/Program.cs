@@ -25,8 +25,9 @@ namespace LeetCodeSolutions
 			//LetterCombinations_17 lc = new LetterCombinations_17();
 			//lc.Test();
 
-			LongestSubstringWithoutRepeatingCharacters_3 no3 = new LongestSubstringWithoutRepeatingCharacters_3();
+			//LongestSubstringWithoutRepeatingCharacters_3 no3 = new LongestSubstringWithoutRepeatingCharacters_3();
 
+            (new MergeTwoLinkedLists()).Test();
 		}
 	}
 }

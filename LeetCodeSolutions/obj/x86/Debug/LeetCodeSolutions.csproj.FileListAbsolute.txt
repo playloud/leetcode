@@ -3,3 +3,8 @@ C:\Users\SePark\Documents\Visual Studio 2010\Projects\leetcode\leetcode\LeetCode
 C:\Users\SePark\Documents\Visual Studio 2010\Projects\leetcode\leetcode\LeetCodeSolutions\obj\x86\Debug\LeetCodeSolutions.csprojResolveAssemblyReference.cache
 C:\Users\SePark\Documents\Visual Studio 2010\Projects\leetcode\leetcode\LeetCodeSolutions\obj\x86\Debug\LeetCodeSolutions.exe
 C:\Users\SePark\Documents\Visual Studio 2010\Projects\leetcode\leetcode\LeetCodeSolutions\obj\x86\Debug\LeetCodeSolutions.pdb
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.exe
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.pdb
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutions\obj\x86\Debug\LeetCodeSolutions.csprojResolveAssemblyReference.cache
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutions\obj\x86\Debug\LeetCodeSolutions.exe
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutions\obj\x86\Debug\LeetCodeSolutions.pdb

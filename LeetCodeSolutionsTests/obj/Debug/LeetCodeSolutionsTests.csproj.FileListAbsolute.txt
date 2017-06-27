@@ -1,0 +1,8 @@
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\bin\Debug\LeetCodeSolutionsTests.dll
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\bin\Debug\LeetCodeSolutionsTests.pdb
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\bin\Debug\LeetCodeSolutions.exe
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\bin\Debug\LeetCodeSolutions.pdb
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\obj\Debug\LeetCodeSolutionsTests.csprojResolveAssemblyReference.cache
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\obj\Debug\LeetCodeSolutionsTests.dll
+C:\Users\PSH\Source\Repos\leetcode\LeetCodeSolutionsTests\obj\Debug\LeetCodeSolutionsTests.pdb
